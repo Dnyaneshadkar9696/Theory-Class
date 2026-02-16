@@ -1,0 +1,63 @@
+Practise Questions based on Multiple Inheritance : 
+
+1. Smart Phone Example
+Create two interfaces:
+Camera â†’ method takePhoto()
+MusicPlayer â†’ method playMusic()
+Create a class SmartPhone that implements both interfaces and demonstrate multiple inheritance.
+
+2. Online Payment System
+Create two interfaces:
+UPIPayment â†’ method payUsingUPI()
+CardPayment â†’ method payUsingCard()
+Create a class PaymentGateway that implements both interfaces.
+
+3. Vehicle Features
+Create two interfaces:
+ElectricVehicle â†’ method chargeBattery()
+FuelVehicle â†’ method fillFuel()
+Create a class HybridCar that implements both interfaces.
+
+4. Employee Roles
+Create two interfaces:
+Trainer â†’ method teach()
+Developer â†’ method developProject()
+Create a class TechLead that implements both interfaces.
+
+5. Social Media Application
+Create two interfaces:
+ReelsFeature â†’ method uploadReel()
+ChatFeature â†’ method sendMessage()
+Create a class SocialApp that implements both interfaces.
+
+6. Banking System
+Create two interfaces:
+LoanService â†’ method applyLoan()
+InsuranceService â†’ method applyInsurance()
+Create a class BankService that implements both interfaces.
+
+7. Smart Watch
+
+Create two interfaces:
+HeartRateMonitor â†’ method measureHeartRate()
+StepCounter â†’ method countSteps()
+Create a class SmartWatch that implements both interfaces.
+
+8. Educational Platform
+Create two interfaces:
+VideoCourse â†’ method watchVideo()
+TestSeries â†’ method attemptTest()
+Create a class LearningApp that implements both interfaces.
+
+9. Multi-Functional Printer
+Create two interfaces:
+Printer â†’ method print()
+Scanner â†’ method scan()
+Create a class AllInOnePrinter that implements both interfaces.
+
+10. E-Commerce Platform
+
+Create two interfaces:
+Seller â†’ method sellProduct()
+Buyer â†’ method buyProduct()
+Create a class MarketplaceUser that implements both interfaces.
