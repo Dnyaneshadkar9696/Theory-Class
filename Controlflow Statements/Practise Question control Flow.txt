@@ -1,0 +1,68 @@
+
+
+Practise Questions : 
+
+
+Accept a number and check whether it is a multiple of 5 and 11 or not.
+Accept a person's salary and apply tax:
+Salary < 50,000 â†’ No Tax
+50,000 to 1,00,000 â†’ 10% Tax
+Above 1,00,000 â†’ 20% Tax
+
+Accept three sides of a triangle and check whether it is valid or not (sum of any two sides > third side).
+Accept a character and check if it is uppercase, lowercase, digit, or special character.
+Accept a number and check if it is a perfect square or not.
+Accept time in 24-hour format and print:
+0â€“11 â†’ Good Morning
+12â€“16 â†’ Good Afternoon
+17â€“20 â†’ Good Evening
+21â€“23 â†’ Good Night
+Accept two numbers and print which number is nearest to 100.
+Accept the cost price and selling price; print Profit, Loss, or No Profit No Loss.
+Accept age and gender:
+If age > 60 and gender = 'F' â†’ â€œSenior Woman Citizenâ€
+If age > 60 and gender = 'M' â†’ â€œSenior Man Citizenâ€
+Else â†’ â€œNot a Senior Citizenâ€
+Accept a month number (1â€“12) and check if it belongs to summer, rainy, or winter season.
+
+
+
+
+Practise Questions on Loops : 
+
+Print all numbers from 1 to 100 using for, while, and do-while loops.
+Print the multiplication table of any number (example: 7) using all three loops.
+Print the sum of digits of a number using while loop.
+Print all even numbers between 1 to 200 using for loop.
+Print the reverse of a number (e.g., 1234 â†’ 4321) using while loop.
+Print factorial of any number using do-while loop.
+Print Fibonacci series up to 10 terms using for loop.
+Print all numbers divisible by 3 and 5 between 1 and 150 using for loop.
+Count how many digits are in a number (e.g., 48793 â†’ 5 digits) using while loop.
+Accept a number and print whether it is a palindrome or not using while loop.
+
+
+
+Practise Questions on Switch Case Statement : 
+
+
+Accept a day number (1â€“7) and print the day name (Monday to Sunday) using switch case.
+Accept a grade (A, B, C, D, F) and print the remark using switch case.
+Accept a month number (1â€“12) and print how many days the month has.
+Accept a character and check whether it is a vowel or consonant using switch case.
+Create a simple calculator using switch case (addition, subtraction, multiplication, division).
+Accept a number between 1â€“4 and print the corresponding season:
+1 â†’ Summer
+2 â†’ Rainy
+3 â†’ Winter
+4 â†’ Spring
+Accept a vehicle type (Car, Bike, Bus, Truck) and print the toll tax amount using switch case.
+Accept a color code (R, G, B, Y) and print the color name.
+Accept a number 1â€“5 and print the star pattern type (Square, Triangle, Pyramid, Diamond, Reverse Triangle).
+Accept user choice (1â€“3):
+1 â†’ Print â€œStartâ€
+2 â†’ Print â€œStopâ€
+3 â†’ Print â€œRestartâ€
+Use switch case.
+
+

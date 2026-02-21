@@ -1,0 +1,90 @@
+A. Based on Level of Abstraction
+
+â­ 1. Low-Level Languages
+Languages that are closest to hardware.
+Very fast but difficult to write.
+Types:
+âœ” 1.1 Machine Language
+First-generation language
+Written in binary (0s and 1s)
+Directly understood by CPU
+No translator required
+Very difficult for humans
+
+âœ” 1.2 Assembly Language
+Second-generation language
+Uses mnemonics (MOV, ADD)
+Requires an assembler
+Hardware-dependent
+Easier than machine language
+
+
+â­ 2. Middle-Level Languages
+
+Languages that bridge the gap between low-level and high-level languages.
+Features:
+Can access memory directly
+Supports high-level programming
+Fast and powerful
+Examples: C, C++, Rust, Go
+
+
+â­ 3. High-Level Languages
+
+Languages close to human languages and easy to understand.
+Features:
+Highly readable
+Portable (platform-independent)
+Automatically manages memory
+Slower than low-level languages
+Examples: Java, Python, JavaScript, C#, PHP, Ruby, Swift, Kotlin
+
+B. Based on Programming Paradigm (Style of Programming)
+
+â­ 4. Procedural Languages (Imperative)
+Follow a step-by-step procedure
+Use functions/methods
+Examples: C, Pascal, Fortran, BASIC
+
+â­ 5. Object-Oriented Languages (OOP)
+Based on objects and classes
+Supports encapsulation, inheritance, polymorphism, abstraction
+Examples: Java, C++, Python, C#, Ruby, Kotlin
+
+â­ 6. Functional Languages
+Based on mathematical functions
+Focus on immutable data
+No side effects
+
+
+Examples: Haskell, Scala, Lisp, F#, Clojure
+â­ 7. Scripting Languages
+Used for automation, web scripting, fast development
+
+
+Interpreted
+Examples: JavaScript, Python, PHP, Bash, Perl
+C. Based on Application Purpose
+
+â­ 8. General-Purpose Languages
+Used for building all types of applications.
+Examples: Java, Python, C, C++, JavaScript
+
+
+â­ 9. Domain-Specific Languages (DSL)
+Designed for specific tasks only.
+Examples:
+SQL â†’ databases
+HTML â†’ web structure
+R â†’ statistics
+MATLAB â†’ scientific computing
+CSS â†’ styling
+Verilog â†’ hardware circuits
+
+
+D. Special Types of Languages
+
+â­ 10. Markup Languages
+Used to structure, display, or format data.
+Not actual programming languages.
+Examples: HTML, XML, JSON, YAML

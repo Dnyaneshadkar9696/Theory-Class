@@ -1,0 +1,28 @@
+ What is a Program?
+
+A program is a set of instructions written by a programmer to tell the computer what to do.
+These instructions are written in a programming language (like Java, Python, C, etc.).
+
+ Simple Definition
+-> A program is a collection of instructions that perform a specific task.
+
+ Examples of Programs
+A calculator program â†’ adds, subtracts, multiplies
+A login program â†’ checks username and password
+A billing program â†’ calculates bills
+A game â†’ responds to user actions
+A website â†’ displays content and processes user input
+
+ Why Do We Need Programs?
+Because a computer cannot think, it only follows instructions.
+Programs tell the computer:
+âœ” What to calculate
+âœ” Where to store data
+âœ” How to display output
+âœ” What task to perform
+
+ How a Program Works (Simple Flow)
+Programmer writes instructions
+Compiler/Interpreter converts into machine language
+Computer executes instructions
+Output is displayed

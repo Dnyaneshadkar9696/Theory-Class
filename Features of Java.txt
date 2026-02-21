@@ -1,0 +1,72 @@
+1. Simple
+Java is easy to learn because its syntax is similar to C/C++ but without confusing features like pointers.
+
+2. Object-Oriented
+Everything in Java is based on objects and classes.
+
+3. Platform Independent
+Java code runs on any operating system because it uses JVM (Write Once, Run Anywhere).
+
+Example:
+Compile â†’ .class file â†’ Run on Windows / Mac / Linux
+
+
+4. Secure
+Java does not support pointers and has its own security manager.
+Example:
+Running code inside JVM prevents memory access issues.
+
+
+5. Robust
+Java handles errors and memory automatically using exception handling and garbage collection.
+
+Example:
+try {
+    int a = 10 / 0;
+} catch (Exception e) {
+    System.out.println("Error occurred");
+}
+
+
+6. Multithreaded
+Java allows multiple tasks to run at the same time.
+
+Example:
+class MyThread extends Thread {
+    public void run() {
+        System.out.println("Thread running...");
+    }
+}
+
+
+7. Distributed
+Java supports networking through APIs like RMI, EJB.
+Example:
+import java.net.*;
+
+
+8. High Performance
+Uses JIT (Just-In-Time) compiler to make execution faster.
+
+
+9. Portable
+Java programs run the same on any device (Mobile, Desktop, Server).
+
+
+10. Dynamic
+Java supports dynamic loading of classes.
+Example:
+Class.forName("com.mysql.jdbc.Driver");
+
+
+11. Architecture Neutral
+Java bytecode is not tied to any hardware, so it runs on any machine.
+
+12. Interpreted
+Java uses JVM to interpret and execute bytecode line by line.
+
+13. Compiled + Interpreted
+
+Java uses both:
+javac â†’ compiles to bytecode
+JVM â†’ interprets/exeÂ­cutes the bytecode

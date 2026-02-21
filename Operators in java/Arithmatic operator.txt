@@ -1,0 +1,69 @@
+Operators in java :
+
+
+An operator is a special symbol used to perform an operation on one or more values (operands).
+
+In arithmetic operators, the operator performs mathematical calculations.
+Examples of arithmetic operators:
++ - * / %
+
+
+
+1> Types of Operators in Java (On the Basis of Operation) :
+
+1. Arithmetic Operators
+2. Relational Operators
+3. logical operators
+4. Assignment Operators
+5. Bitwise Operators
+6. Increment & Decrement Operator 
+7. MISC
+
+
+2> Types of Operators Based on Number of Operands :
+
+Unary â†’ single value operation
+Binary â†’ two value operation
+Ternary â†’ decision based operation
+This classification is only based on number of operands, not functionality.
+
+
+
+Operand :
+
+An operand is a value or variable on which the operator performs the operation.
+
+Example:
+
+a + b
++ â†’ operator
+a, b â†’ operands
+
+
+
+Operation :
+
+An operation is the action performed by an operator on operands.
+
+Example:
+
+10 + 5
+Operation performed: Addition
+Result: 15
+
+
+1> Arithmetic Operators in Java : 
+
+Arithmetic operators are used to perform basic mathematical calculations.
+
+Operator  Name   	Operation Performed
+
++	Addition	Adds two operands
+-	Subtraction	Subtracts second operand from first
+*	Multiplication	Multiplies two operands
+/	Division	Divides first operand by second
+%	Modulus	Returns remainder of division
+
+
+
+
